@@ -40,14 +40,20 @@
 
 ## week 10 (Nov 13)
 11. Network: basic operations
+12. Networks: visualization
+13. Networks: statistic
 
 ## week 11 (Nov 20)
-12. Networks: visualization
+14. Networks: community detection
+15. Networks: simulations
+
 
 ## week 12 (Nov 27)
-13. Networks: simulations
-14. Networks: statistic
+Q&A
 
+
+## week 13 (Dec 4)
+Q&A
 
 ## Assignments (tentative)
 - 4 assignments in total
